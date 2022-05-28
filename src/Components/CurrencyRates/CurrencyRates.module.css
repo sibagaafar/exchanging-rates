@@ -1,0 +1,21 @@
+.container{
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin: 2rem 13rem;
+    height: 8rem;
+
+
+}
+
+
+.infoRow{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem;
+}
+
+.data{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem;
+}

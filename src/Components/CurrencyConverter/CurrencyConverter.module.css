@@ -1,0 +1,18 @@
+.converterBox{
+    background-color: aliceblue;
+    border-radius: 4px;
+    margin: 2rem 13rem;
+    height: 8rem;
+}
+
+.toFromCurrencies{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+}
+
+.convertSection{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
