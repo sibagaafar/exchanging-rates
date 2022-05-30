@@ -1,21 +1,47 @@
+.rateTitle{
+    text-align: center;
+    font-weight: bolder;
+    color:rgb(10, 20, 110);
+    margin: 0 auto 3rem auto;
+}
+
+
 .container{
-    background-color: aliceblue;
-    border-radius: 20px;
-    margin: 2rem 13rem;
-    height: 8rem;
-
-
+    
+    margin: 2rem 5rem  13rem 5rem;
+    
 }
 
 
 .infoRow{
     display: flex;
+    background-color: rgb(10, 20, 110) ;
+    color: white;
+    font-weight: bold;
     justify-content: space-evenly;
-    margin: 2rem;
+    margin: 0;
+    padding: 1em 1em;
+    border-radius: 20px;
 }
 
 .data{
     display: flex;
+    background-color: white;
+    color: black;
     justify-content: space-evenly;
-    margin: 2rem;
+    margin: 0;
+    padding: 1em 1em;
+    font-weight: bold;
+
+
+}
+
+.data > div{
+
+    text-align: center;
+}
+
+.line{
+    border: 0.1px solid rgb(240, 238, 238);
+    border-radius: 5px;    
 }

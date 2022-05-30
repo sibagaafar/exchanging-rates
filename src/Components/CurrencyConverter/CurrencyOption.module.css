@@ -1,0 +1,19 @@
+.list-container{
+    
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    
+.choose-currency{
+    display: flex;
+}
+
+.choose-currency > input{
+    padding: 0.5em;
+}
+
+.list-container> label{
+    font-weight: bold;
+}

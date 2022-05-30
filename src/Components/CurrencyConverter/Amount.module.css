@@ -1,0 +1,15 @@
+.amount-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 0;
+}
+
+.amount-container > input{
+    padding: 0.5em;
+
+}
+
+.amount-container> label{
+    font-weight: bold;
+}
